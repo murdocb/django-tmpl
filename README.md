@@ -1,4 +1,4 @@
-# djangp-tmpl
+# djangp-tmpl APIView template
 
 ## Dependency
 
